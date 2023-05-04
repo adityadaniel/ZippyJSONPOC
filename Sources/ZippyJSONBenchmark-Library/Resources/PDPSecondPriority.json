@@ -1,0 +1,673 @@
+{
+  "cartRedirection": {
+    "status": "OK",
+    "data": [
+      {
+        "product_id": "365885807",
+        "config_name": "default_all_campaign",
+        "available_buttons": [
+          {
+            "color": "secondary_green",
+            "cart_type": "normal",
+            "show_recommendation": false,
+            "text": "Beli"
+          },
+          {
+            "color": "primary_green",
+            "cart_type": "normal",
+            "show_recommendation": true,
+            "text": "+ Keranjang"
+          }
+        ],
+        "hide_floating_button": false,
+        "unavailable_buttons": [
+          "byme"
+        ]
+      }
+    ],
+    "alternate_copy": [
+      {
+        "color": "secondary_gray",
+        "text": "Cek Wishlist Kamu",
+        "cart_type": "remind_me"
+      },
+      {
+        "color": "primary_green",
+        "text": "Simpan Perubahan",
+        "cart_type": "update_cart"
+      }
+    ],
+    "error_message": []
+  },
+  "merchantVoucherSummary": {
+    "isShown": true,
+    "animatedInfo": [
+      {
+        "title": "<b>Ada cashback hingga Rp100.000</b>",
+        "subTitle": "Masih ada 3 Kupon Toko lainnya!",
+        "iconURL": "https://images.tokopedia.net/img/cashback.png"
+      }
+    ]
+  },
+  "upcomingCampaigns": [],
+  "requestID": "ch4lh5uc05mf4bo9m80g",
+  "installmentRecommendation": {
+    "message": "",
+    "data": {
+      "maximum_amount": 0,
+      "subtitle": "",
+      "interest_rate": 0,
+      "minimum_amount": 0,
+      "monthly_price": 0,
+      "partner_code": "",
+      "os_monthly_price": 0,
+      "partner_icon": "",
+      "partner_name": "",
+      "mdr_value": 0,
+      "term": 0,
+      "mdr_type": ""
+    }
+  },
+  "reviewImage": {
+    "hasPrev": false,
+    "detail": {
+      "images": [
+        {
+          "imageAttachmentID": 102714239,
+          "reviewID": 880385592,
+          "description": "",
+          "uriThumbnail": "https://images.tokopedia.net/img/cache/100-square/bjFkPX/2023/4/21/304d22e4-30e2-4f4e-b976-0b6bf1708984.jpg",
+          "uriLarge": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/4/21/304d22e4-30e2-4f4e-b976-0b6bf1708984.jpg"
+        },
+        {
+          "imageAttachmentID": 102714238,
+          "reviewID": 880385592,
+          "description": "",
+          "uriThumbnail": "https://images.tokopedia.net/img/cache/100-square/bjFkPX/2023/4/21/80383346-89c1-4446-b03d-9ff4ecc385e5.jpg",
+          "uriLarge": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/4/21/80383346-89c1-4446-b03d-9ff4ecc385e5.jpg"
+        },
+        {
+          "imageAttachmentID": 102714237,
+          "reviewID": 880385592,
+          "description": "",
+          "uriThumbnail": "https://images.tokopedia.net/img/cache/100-square/bjFkPX/2023/4/21/8ab61f4e-3244-4bd5-b28a-6195733fa12d.jpg",
+          "uriLarge": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/4/21/8ab61f4e-3244-4bd5-b28a-6195733fa12d.jpg"
+        },
+        {
+          "imageAttachmentID": 102714236,
+          "reviewID": 880385592,
+          "description": "",
+          "uriThumbnail": "https://images.tokopedia.net/img/cache/100-square/bjFkPX/2023/4/21/91c463dc-9b0e-4c22-8407-f8adf9c66966.jpg",
+          "uriLarge": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/4/21/91c463dc-9b0e-4c22-8407-f8adf9c66966.jpg"
+        },
+        {
+          "imageAttachmentID": 102714235,
+          "reviewID": 880385592,
+          "description": "",
+          "uriThumbnail": "https://images.tokopedia.net/img/cache/100-square/bjFkPX/2023/4/21/609b6660-8d87-41f0-9a71-9c1eb3704ea6.jpg",
+          "uriLarge": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/4/21/609b6660-8d87-41f0-9a71-9c1eb3704ea6.jpg"
+        }
+      ],
+      "videos": [],
+      "mediaCountTitle": "Foto Pembeli",
+      "reviews": [
+        {
+          "rating": 5,
+          "ratingDescription": "",
+          "updateTime": 0,
+          "isReportable": false,
+          "message": "pengiriman cepat, packing aman, barang bagus sesuai deskripsi, terimakasih",
+          "isUpdated": false,
+          "reviewId": 880385592,
+          "isAnonymous": false,
+          "reviewer": {
+            "userID": 42060915,
+            "fullName": "Ferdinan",
+            "url": "https://www.tokopedia.com/people/42060915",
+            "profilePicture": "https://accounts.tokopedia.com/image/v1/u/42060915/user_thumbnail/desktop"
+          }
+        }
+      ],
+      "mediaCountFmt": "Lainnya 302+",
+      "imageCount": "306",
+      "imageCountFmt": "Lainnya 302+",
+      "mediaCount": "306"
+    },
+    "list": [
+      {
+        "videoID": "0",
+        "reviewID": 880385592,
+        "imageSibling": [
+          102714235,
+          102714236,
+          102714237,
+          102714238,
+          102714239
+        ],
+        "imageID": 102714235
+      },
+      {
+        "videoID": "0",
+        "reviewID": 880385592,
+        "imageSibling": [
+          102714235,
+          102714236,
+          102714237,
+          102714238,
+          102714239
+        ],
+        "imageID": 102714236
+      },
+      {
+        "videoID": "0",
+        "reviewID": 880385592,
+        "imageSibling": [
+          102714235,
+          102714236,
+          102714237,
+          102714238,
+          102714239
+        ],
+        "imageID": 102714237
+      },
+      {
+        "videoID": "0",
+        "reviewID": 880385592,
+        "imageSibling": [
+          102714235,
+          102714236,
+          102714237,
+          102714238,
+          102714239
+        ],
+        "imageID": 102714238
+      }
+    ],
+    "hasNext": true
+  },
+  "shopRatingsQuery": {
+    "ratingScore": 5
+  },
+  "validateTradeIn": {
+    "isEligible": false,
+    "useKyc": false,
+    "remainingPrice": "0",
+    "message": "",
+    "widgetString": "",
+    "isDiagnosed": false,
+    "usedPrice": "0"
+  },
+  "ppGetItemDetailPage": {
+    "program": {
+      "isAppLink": true,
+      "iconURL": "",
+      "subTitlePDP": "",
+      "titlePDP": "",
+      "linkURL": "",
+      "protectionAvailable": false
+    }
+  },
+  "shopAdditional": {
+    "linkText": "Pelajari",
+    "label": [
+      "Pasti Tersedia",
+      "Proses Cepat",
+      "Dikemas Tokopedia"
+    ],
+    "icon": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/DilayaniTokopedia_Icon.png",
+    "title": "Dilayani Tokopedia",
+    "subtitle": "Barang dikirim dari gudang Tokopedia terdekat"
+  },
+  "bundleInfo": [],
+  "shopTopChatSpeed": {
+    "messageResponseTime": "1"
+  },
+  "bebasOngkir": {
+    "images": [
+      {
+        "boType": 1,
+        "imageURL": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png"
+      }
+    ],
+    "products": [
+      {
+        "boType": 1,
+        "boCampaignIDs": "283,212,272",
+        "productID": "365885807"
+      }
+    ]
+  },
+  "shopFinishRate": {
+    "finishRate": "100%"
+  },
+  "shopPackSpeed": {
+    "speedFmt": "3 jam",
+    "hour": 3
+  },
+  "reviewList": {
+    "applinkTitle": "",
+    "data": [],
+    "title": "",
+    "applink": ""
+  },
+  "productWishlistQuery": {
+    "value": false
+  },
+  "merchantVoucher": {
+    "vouchers": [
+      {
+        "amount": {
+          "amount": 3,
+          "amount_type": 2
+        },
+        "banner": {
+          "mobile_url": "https://images.tokopedia.net/img/merchant-coupon/banner/v3/base_image/voucher-subsidy-cashback.jpg"
+        },
+        "status": {
+          "status": 2
+        },
+        "voucher_id": 18423967,
+        "voucher_name": "RT04OS23",
+        "voucher_type": {
+          "voucher_type": 3
+        },
+        "valid_thru": "1682873940",
+        "voucher_code": "DP0423O068",
+        "minimum_spend": 150000,
+        "tnc": "<ol><li>Voucher Cashback dapat digunakan dengan membuka halaman promo di Keranjang.</li><li>Voucher Cashback hanya berlaku apabila pembelian Pengguna sudah memenuhi syarat dan ketentuan yang tertera pada voucher.</li><li>Nominal Cashback yang bisa didapatkan sebesar 3% hingga Rp 100.000.</li><li>Voucher Cashback ini berlaku untuk transaksi minimal Rp 150.000 (tidak termasuk ongkos kirim dan biaya tambahan lainnya).</li><li>Voucher Cashback ini hanya berlaku untuk pembelanjaan di Bagus Official Store.</li><li>1 (satu) Pengguna Tokopedia hanya boleh menggunakan 1 (satu) akun Tokopedia untuk menggunakan Voucher Cashback ini.</li><li>Cashback akan diberikan dalam bentuk GoPay Coins pada saat transaksi selesai. Pengguna diharapkan untuk memastikan bahwa Pengguna sudah mengaktifkan GoPay dan menyambungkan akun Tokopedia dan akun Gojek.</li><li>Benefit cashback akan diberikan secara pro-rata jika menggunakan pembayaran sebagian OVO Point, TokoPoints,dan/ atau GoPay Coins.</li><li>Cashback yang diberikan disesuaikan dengan jumlah pembayaran yang digunakan selain OVO Point, TokoPoints, dan/ atau GoPay Coins.</li><li>Promo tidak berlaku untuk produk Logam Mulia, Emas Batangan, Voucher, dan Paket Data.</li><li>Apabila terjadi pengembalian dana sebagian, maka terdapat penyesuaian cashback.</li><li>Jika transaksi gagal atau masuk ke Pusat Resolusi, dana yang kembali ke Pembeli akan sesuai dengan nominal pembayaran yang dilakukan oleh Pembeli.</li><li>Tokopedia berhak melakukan tindakan yang diperlukan apabila diduga terjadi tindakan kecurangan yang dilakukan oleh Pengguna dan/atau yang melanggar Syarat dan Ketentuan Situs dan/atau merugikan pihak Tokopedia.</li><li>Dengan menggunakan Voucher Cashback ini, pengguna dianggap telah memahami dan menyetujui semua Syarat & Ketentuan yang berlaku.</li><li>Kupon ini tidak dapat digunakan bersamaan dengan produk promosi kecuali diatur lain sebagaimana kebijakan Tokopedia.</li></ol>",
+        "restricted_for_liquid_product": false
+      },
+      {
+        "amount": {
+          "amount": 20000,
+          "amount_type": 1
+        },
+        "banner": {
+          "mobile_url": "https://images.tokopedia.net/img/generator/ZmygOT/d5c1d50a375d230ee84b50fd1457d3f3.jpg"
+        },
+        "status": {
+          "status": 2
+        },
+        "voucher_id": 18527200,
+        "voucher_name": "WIB April 2023 Tier 1",
+        "voucher_type": {
+          "voucher_type": 3
+        },
+        "valid_thru": "1682874000",
+        "voucher_code": "BAGUHQM8MO",
+        "minimum_spend": 100000,
+        "tnc": "<ol><li>Voucher Cashback dapat digunakan dengan membuka halaman promo di Keranjang.</li><li>Voucher Cashback hanya berlaku apabila pembelian Pengguna sudah memenuhi syarat dan ketentuan yang tertera pada voucher.</li><li>Nominal cashback yang bisa didapatkan sebesar Rp 20.000.</li><li>Voucher Cashback berlaku untuk transaksi minimal Rp 100.000 (tidak termasuk ongkos kirim dan biaya tambahan lainnya).</li><li>Voucher Cashback ini hanya berlaku untuk pembelanjaan di Bagus Official Store.</li><li>1 (satu) Pengguna Tokopedia hanya boleh menggunakan 1 (satu) akun Tokopedia untuk menggunakan Voucher Cashback ini.</li><li>Cashback akan diberikan dalam bentuk GoPay Coins pada saat transaksi selesai. Pengguna diharapkan untuk memastikan bahwa Pengguna sudah mengaktifkan GoPay dan menyambungkan akun Tokopedia dan akun Gojek.</li><li>Benefit cashback akan diberikan secara pro-rata jika menggunakan pembayaran sebagian OVO Point, TokoPoints,dan/ atau GoPay Coins.</li><li>Cashback yang diberikan disesuaikan dengan jumlah pembayaran yang digunakan selain OVO Point, TokoPoints, dan/ atau GoPay Coins.</li><li>Apabila terjadi pengembalian dana sebagian, maka terdapat penyesuaian cashback.</li><li>Jika transaksi dibatalkan atau masuk ke Pusat Resolusi, dana yang kembali ke pembeli akan sesuai dengan nominal pembayaran yang dilakukan.</li><li>Tokopedia berhak melakukan tindakan yang diperlukan apabila diduga terjadi tindakan kecurangan yang dilakukan oleh Pengguna dan/atau yang melanggar Syarat dan Ketentuan Situs dan/atau merugikan pihak Tokopedia.</li><li>Dengan menggunakan Voucher Cashback ini, pengguna dianggap telah memahami dan menyetujui semua Syarat & Ketentuan yang berlaku.</li><li>Kupon ini tidak dapat digunakan bersamaan dengan produk promosi kecuali diatur lain sebagaimana kebijakan Tokopedia.</li></ol>",
+        "restricted_for_liquid_product": false
+      },
+      {
+        "amount": {
+          "amount": 3,
+          "amount_type": 2
+        },
+        "banner": {
+          "mobile_url": "https://images.tokopedia.net/img/merchant-coupon/banner/v3/base_image/voucher-subsidy-cashback.jpg"
+        },
+        "status": {
+          "status": 2
+        },
+        "voucher_id": 18124469,
+        "voucher_name": "RT04OS23",
+        "voucher_type": {
+          "voucher_type": 3
+        },
+        "valid_thru": "1682873940",
+        "voucher_code": "DP0423O051",
+        "minimum_spend": 150000,
+        "tnc": "<ol><li>Voucher Cashback dapat digunakan dengan membuka halaman promo di Keranjang.</li><li>Voucher Cashback hanya berlaku apabila pembelian Pengguna sudah memenuhi syarat dan ketentuan yang tertera pada voucher.</li><li>Nominal Cashback yang bisa didapatkan sebesar 3% hingga Rp 100.000.</li><li>Voucher Cashback ini berlaku untuk transaksi minimal Rp 150.000 (tidak termasuk ongkos kirim dan biaya tambahan lainnya).</li><li>Voucher Cashback ini hanya berlaku untuk pembelanjaan di Bagus Official Store.</li><li>1 (satu) Pengguna Tokopedia hanya boleh menggunakan 1 (satu) akun Tokopedia untuk menggunakan Voucher Cashback ini.</li><li>Cashback akan diberikan dalam bentuk GoPay Coins pada saat transaksi selesai. Pengguna diharapkan untuk memastikan bahwa Pengguna sudah mengaktifkan GoPay dan menyambungkan akun Tokopedia dan akun Gojek.</li><li>Benefit cashback akan diberikan secara pro-rata jika menggunakan pembayaran sebagian OVO Point, TokoPoints,dan/ atau GoPay Coins.</li><li>Cashback yang diberikan disesuaikan dengan jumlah pembayaran yang digunakan selain OVO Point, TokoPoints, dan/ atau GoPay Coins.</li><li>Promo tidak berlaku untuk produk Logam Mulia, Emas Batangan, Voucher, dan Paket Data.</li><li>Apabila terjadi pengembalian dana sebagian, maka terdapat penyesuaian cashback.</li><li>Jika transaksi gagal atau masuk ke Pusat Resolusi, dana yang kembali ke Pembeli akan sesuai dengan nominal pembayaran yang dilakukan oleh Pembeli.</li><li>Tokopedia berhak melakukan tindakan yang diperlukan apabila diduga terjadi tindakan kecurangan yang dilakukan oleh Pengguna dan/atau yang melanggar Syarat dan Ketentuan Situs dan/atau merugikan pihak Tokopedia.</li><li>Dengan menggunakan Voucher Cashback ini, pengguna dianggap telah memahami dan menyetujui semua Syarat & Ketentuan yang berlaku.</li><li>Kupon ini tidak dapat digunakan bersamaan dengan produk promosi kecuali diatur lain sebagaimana kebijakan Tokopedia.</li></ol>",
+        "restricted_for_liquid_product": false
+      },
+      {
+        "amount": {
+          "amount": 12,
+          "amount_type": 2
+        },
+        "banner": {
+          "mobile_url": "https://images.tokopedia.net/img/generator/ZmygOT/91f68fd31ecd97a74878f53d219f1512.jpg"
+        },
+        "status": {
+          "status": 2
+        },
+        "voucher_id": 18527202,
+        "voucher_name": "WIB April 2023 Tier 2",
+        "voucher_type": {
+          "voucher_type": 3
+        },
+        "valid_thru": "1682874000",
+        "voucher_code": "BAGU408SBI",
+        "minimum_spend": 150000,
+        "tnc": "<ol><li>Voucher Cashback dapat digunakan dengan membuka halaman promo di Keranjang.</li><li>Voucher Cashback hanya berlaku apabila pembelian Pengguna sudah memenuhi syarat dan ketentuan yang tertera pada voucher.</li><li>Nominal Cashback yang bisa didapatkan sebesar 12% hingga Rp 35.000.</li><li>Voucher Cashback ini berlaku untuk transaksi minimal Rp 150.000 (tidak termasuk ongkos kirim dan biaya tambahan lainnya).</li><li>Voucher Cashback ini hanya berlaku untuk pembelanjaan di Bagus Official Store.</li><li>1 (satu) Pengguna Tokopedia hanya boleh menggunakan 1 (satu) akun Tokopedia untuk menggunakan Voucher Cashback ini.</li><li>Cashback akan diberikan dalam bentuk GoPay Coins pada saat transaksi selesai. Pengguna diharapkan untuk memastikan bahwa Pengguna sudah mengaktifkan GoPay dan menyambungkan akun Tokopedia dan akun Gojek.</li><li>Benefit cashback akan diberikan secara pro-rata jika menggunakan pembayaran sebagian OVO Point, TokoPoints,dan/ atau GoPay Coins.</li><li>Cashback yang diberikan disesuaikan dengan jumlah pembayaran yang digunakan selain OVO Point, TokoPoints, dan/ atau GoPay Coins.</li><li>Apabila terjadi pengembalian dana sebagian, maka terdapat penyesuaian cashback.</li><li>Jika transaksi gagal atau masuk ke Pusat Resolusi, dana yang kembali ke Pembeli akan sesuai dengan nominal pembayaran yang dilakukan oleh Pembeli.</li><li>Tokopedia berhak melakukan tindakan yang diperlukan apabila diduga terjadi tindakan kecurangan yang dilakukan oleh Pengguna dan/atau yang melanggar Syarat dan Ketentuan Situs dan/atau merugikan pihak Tokopedia.</li><li>Dengan menggunakan Voucher Cashback ini, pengguna dianggap telah memahami dan menyetujui semua Syarat & Ketentuan yang berlaku.</li><li>Kupon ini tidak dapat digunakan bersamaan dengan produk promosi kecuali diatur lain sebagaimana kebijakan Tokopedia.</li></ol>",
+        "restricted_for_liquid_product": false
+      },
+      {
+        "amount": {
+          "amount": 8,
+          "amount_type": 2
+        },
+        "banner": {
+          "mobile_url": "https://images.tokopedia.net/img/merchant-coupon/banner/v3/base_image/voucher-subsidy-cashback.jpg"
+        },
+        "status": {
+          "status": 2
+        },
+        "voucher_id": 18423797,
+        "voucher_name": "RT04OS23",
+        "voucher_type": {
+          "voucher_type": 3
+        },
+        "valid_thru": "1682873940",
+        "voucher_code": "WIBBGSAPR3",
+        "minimum_spend": 150000,
+        "tnc": "<ol><li>Voucher Cashback dapat digunakan dengan membuka halaman promo di Keranjang.</li><li>Voucher Cashback hanya berlaku apabila pembelian Pengguna sudah memenuhi syarat dan ketentuan yang tertera pada voucher.</li><li>Nominal Cashback yang bisa didapatkan sebesar 8% hingga Rp 100.000.</li><li>Voucher Cashback ini berlaku untuk transaksi minimal Rp 150.000 (tidak termasuk ongkos kirim dan biaya tambahan lainnya).</li><li>Voucher Cashback ini hanya berlaku untuk pembelanjaan di Bagus Official Store.</li><li>1 (satu) Pengguna Tokopedia hanya boleh menggunakan 1 (satu) akun Tokopedia untuk menggunakan Voucher Cashback ini.</li><li>Cashback akan diberikan dalam bentuk GoPay Coins pada saat transaksi selesai. Pengguna diharapkan untuk memastikan bahwa Pengguna sudah mengaktifkan GoPay dan menyambungkan akun Tokopedia dan akun Gojek.</li><li>Benefit cashback akan diberikan secara pro-rata jika menggunakan pembayaran sebagian OVO Point, TokoPoints,dan/ atau GoPay Coins.</li><li>Cashback yang diberikan disesuaikan dengan jumlah pembayaran yang digunakan selain OVO Point, TokoPoints, dan/ atau GoPay Coins.</li><li>Promo tidak berlaku untuk produk Logam Mulia, Emas Batangan, Voucher, dan Paket Data.</li><li>Apabila terjadi pengembalian dana sebagian, maka terdapat penyesuaian cashback.</li><li>Jika transaksi gagal atau masuk ke Pusat Resolusi, dana yang kembali ke Pembeli akan sesuai dengan nominal pembayaran yang dilakukan oleh Pembeli.</li><li>Tokopedia berhak melakukan tindakan yang diperlukan apabila diduga terjadi tindakan kecurangan yang dilakukan oleh Pengguna dan/atau yang melanggar Syarat dan Ketentuan Situs dan/atau merugikan pihak Tokopedia.</li><li>Dengan menggunakan Voucher Cashback ini, pengguna dianggap telah memahami dan menyetujui semua Syarat & Ketentuan yang berlaku.</li><li>Kupon ini tidak dapat digunakan bersamaan dengan produk promosi kecuali diatur lain sebagaimana kebijakan Tokopedia.</li></ol>",
+        "restricted_for_liquid_product": false
+      },
+      {
+        "amount": {
+          "amount": 15,
+          "amount_type": 2
+        },
+        "banner": {
+          "mobile_url": "https://images.tokopedia.net/img/generator/ZmygOT/0af12b11cc56f1afae6faf824986ea93.jpg"
+        },
+        "status": {
+          "status": 2
+        },
+        "voucher_id": 18527215,
+        "voucher_name": "WIB April 2023 Tier 3",
+        "voucher_type": {
+          "voucher_type": 3
+        },
+        "valid_thru": "1682874000",
+        "voucher_code": "BAGUE7TQ4N",
+        "minimum_spend": 200000,
+        "tnc": "<ol><li>Voucher Cashback dapat digunakan dengan membuka halaman promo di Keranjang.</li><li>Voucher Cashback hanya berlaku apabila pembelian Pengguna sudah memenuhi syarat dan ketentuan yang tertera pada voucher.</li><li>Nominal Cashback yang bisa didapatkan sebesar 15% hingga Rp 50.000.</li><li>Voucher Cashback ini berlaku untuk transaksi minimal Rp 200.000 (tidak termasuk ongkos kirim dan biaya tambahan lainnya).</li><li>Voucher Cashback ini hanya berlaku untuk pembelanjaan di Bagus Official Store.</li><li>1 (satu) Pengguna Tokopedia hanya boleh menggunakan 1 (satu) akun Tokopedia untuk menggunakan Voucher Cashback ini.</li><li>Cashback akan diberikan dalam bentuk GoPay Coins pada saat transaksi selesai. Pengguna diharapkan untuk memastikan bahwa Pengguna sudah mengaktifkan GoPay dan menyambungkan akun Tokopedia dan akun Gojek.</li><li>Benefit cashback akan diberikan secara pro-rata jika menggunakan pembayaran sebagian OVO Point, TokoPoints,dan/ atau GoPay Coins.</li><li>Cashback yang diberikan disesuaikan dengan jumlah pembayaran yang digunakan selain OVO Point, TokoPoints, dan/ atau GoPay Coins.</li><li>Apabila terjadi pengembalian dana sebagian, maka terdapat penyesuaian cashback.</li><li>Jika transaksi gagal atau masuk ke Pusat Resolusi, dana yang kembali ke Pembeli akan sesuai dengan nominal pembayaran yang dilakukan oleh Pembeli.</li><li>Tokopedia berhak melakukan tindakan yang diperlukan apabila diduga terjadi tindakan kecurangan yang dilakukan oleh Pengguna dan/atau yang melanggar Syarat dan Ketentuan Situs dan/atau merugikan pihak Tokopedia.</li><li>Dengan menggunakan Voucher Cashback ini, pengguna dianggap telah memahami dan menyetujui semua Syarat & Ketentuan yang berlaku.</li><li>Kupon ini tidak dapat digunakan bersamaan dengan produk promosi kecuali diatur lain sebagaimana kebijakan Tokopedia.</li></ol>",
+        "restricted_for_liquid_product": false
+      }
+    ],
+    "error_message_title": "",
+    "error_message": ""
+  },
+  "arInfo": {
+    "message": "",
+    "productIDs": [],
+    "imageUrl": "",
+    "applink": ""
+  },
+  "installmentCalculation": {
+    "message": "",
+    "data": {
+      "non_credit_card": [],
+      "credit_card": [],
+      "tnc": []
+    }
+  },
+  "uniqueSellingPoint": {
+    "bebasOngkirExtra": {
+      "icon": "https://images.tokopedia.net/img/pdp/icon/usp/boextoped.png"
+    }
+  },
+  "shopCommitment": {
+    "result": {
+      "iconURL": "",
+      "isNowActive": false,
+      "staticMessages": {
+        "pdpMessage": ""
+      }
+    },
+    "error": {
+      "message": ""
+    }
+  },
+  "ticker": {
+    "tickerInfo": []
+  },
+  "reputationShop": {
+    "badge": "https://ecs7.tokopedia.net/img/repsys/diamond-5.gif",
+    "score": "593.041"
+  },
+  "shopInfo": {
+    "shopStats": {
+      "totalTx": "364841",
+      "productSold": "1238310",
+      "totalShowcase": "33"
+    },
+    "shopMultilocation": {
+      "eduLink": {
+        "appLink": ""
+      },
+      "warehouseCount": ""
+    },
+    "tickerData": [],
+    "partnerLabel": "",
+    "closedInfo": {
+      "detail": {
+        "openDateUTC": "0"
+      },
+      "reason": "Mohon maaf atas ketidaknyamanan yang Anda alami. Dengan berat hati toko Anda harus kami tutup karena adanya indikasi pelanggaran Syarat dan Ketentuan Tokopedia. Silahkan periksa kotak pesan Anda untuk penjelasan lebih lanjut. <br> Demi kenyamanan dan keamanan bertransaksi di Tokopedia, kami himbau agar Anda dapat memperhatikan dan memahami dengan baik seluruh Syarat dan Ketentuan Transaksi Penjualan (Poin E) di <a href='https://www.tokopedia.com/terms.pl#sell'>https://www.tokopedia.com/terms.pl#sell</a>. <br>Terima kasih,<br>Tim Tokopedia",
+      "until": "",
+      "closedNote": ""
+    },
+    "favoriteData": {
+      "totalFavorite": "0",
+      "alreadyFavorited": 0
+    },
+    "location": "Jakarta Utara",
+    "shopLastActive": "1682528401",
+    "activeProduct": "439",
+    "createInfo": {
+      "epochShopCreatedUTC": "1501667331",
+      "shopCreated": "2017-08-02",
+      "openSince": "August 2017"
+    },
+    "shopTier": 2,
+    "badgeURL": "https://images.tokopedia.net/img/official_store/badge_os.png",
+    "shopCore": {
+      "shopID": "2363890",
+      "domain": "bagusmartid",
+      "tagLine": "Produk Idola Keluarga",
+      "defaultSort": 2,
+      "description": "Merupakan Official Shop dari Bagus di Tokopedia. Memberikan Kenyamanan dan Kepuasan kepada keluarga Indonesia",
+      "ownerID": "21408087",
+      "name": "Bagus Official Store",
+      "url": "https://www.tokopedia.com/bagusmartid"
+    },
+    "shopAssets": {
+      "avatar": "https://images.tokopedia.net/img/cache/215-square/shops-1/2020/5/16/2363890/2363890_9847f48d-d934-40cb-873b-8219d1c09bd7.png",
+      "cover": "https://images.tokopedia.net/img/cache/1190/HEpYhz/2020/11/16/b74599b5-d620-4c1c-a99a-f19959fb629b.jpg"
+    },
+    "statusInfo": {
+      "statusTitle": "",
+      "isIdle": false,
+      "shopStatus": 1,
+      "statusMessage": ""
+    }
+  },
+  "nearestWarehouse": [
+    {
+      "product_id": "365885807",
+      "warehouse_info": {
+        "district_id": "2283",
+        "postal_code": "14250",
+        "warehouse_id": "4103771",
+        "geolocation": "15nwRG7lE4HvO6LwIGvCEfUaDA5zEighTN9gWG4fmGC952hNFLgd4lZ%2B%2FojRYD3dtaIcf2AjZ7LwNdL1PRJw80M%3D",
+        "is_fulfillment": false
+      }
+    }
+  ],
+  "ratesEstimate": [
+    {
+      "boMetadata": "{\"bo_metadata\":{\"bo_type\":1,\"bo_eligibilities\":[{\"key\":\"campaign_ids\",\"value\":\"283,212,272\"}]}}",
+      "data": {
+        "isSupportInstantCourier": false,
+        "subtitle": "Kurir lainnya: ",
+        "isScheduled": false,
+        "chipsLabel": [
+          "Same Day"
+        ],
+        "courierLabel": "Same Day",
+        "shippingCtxDesc": "",
+        "fulfillmentData": {
+          "prefix": "",
+          "icon": "",
+          "description": ""
+        },
+        "cheapestShippingPrice": 0,
+        "tickers": [],
+        "title": "Ongkir Reguler Rp8.000 - Rp11.500",
+        "boBadge": {
+          "isUsingPadding": true,
+          "imageHeight": 20,
+          "imageURL": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png"
+        },
+        "totalService": 1,
+        "icon": "https://images.tokopedia.net/img/pdp/info/icon/courier@3x.png",
+        "hasUsedBenefit": false,
+        "destination": "",
+        "eTAText": "Estimasi tiba 28 - 30 Apr",
+        "originalShippingRate": 0,
+        "errors": []
+      },
+      "bottomsheet": {
+        "title": "",
+        "iconURL": "",
+        "subtitle": "",
+        "buttonCopy": ""
+      },
+      "productMetadata": [
+        {
+          "value": "{\"product_id\":365885807,\"is_free_shipping\":true}",
+          "productID": "365885807"
+        }
+      ],
+      "warehouseID": "4103771",
+      "products": [
+        "365885807"
+      ]
+    }
+  ],
+  "mostHelpFulReviewData": {
+    "list": [
+      {
+        "reviewCreateTime": "4 bulan lalu",
+        "variant": {
+          "name": ""
+        },
+        "userStat": [
+          {
+            "key": "total-complete-review",
+            "formatted": "39 ulasan lengkap"
+          },
+          {
+            "key": "total-likes",
+            "formatted": "11 terbantu"
+          }
+        ],
+        "likeDislike": {
+          "TotalLike": 0,
+          "TotalDislike": 0,
+          "isShowable": false
+        },
+        "productRating": 5,
+        "message": "mantap,belom dicoba dimobil.karena mobilnya masih didealer.pake dikamar dulu.mudah2an nanti mobilnya kebeli",
+        "videoAttachments": [],
+        "imageAttachments": [],
+        "reviewId": "816479056",
+        "userLabel": "Juara Ulasan",
+        "user": {
+          "image": "https://accounts.tokopedia.com/image/v1/u/17544445/user_thumbnail/desktop",
+          "userId": "17544445",
+          "fullName": "ardo"
+        }
+      }
+    ]
+  },
+  "wishlistCount": "3228",
+  "obatKeras": {
+    "applink": "",
+    "subtitle": ""
+  },
+  "socialProofComponent": [
+    {
+      "applink": {
+        "appLink": ""
+      },
+      "socialProofID": "",
+      "socialProofType": "text",
+      "title": "Terjual 15,5 rb",
+      "subtitle": "",
+      "icon": ""
+    },
+    {
+      "applink": {
+        "appLink": "tokopedia://product/365885807/review"
+      },
+      "socialProofID": "rating",
+      "socialProofType": "chip",
+      "title": "4.9",
+      "subtitle": "(4,8 rb)",
+      "icon": "https://images.tokopedia.net/img/pdp/info/icon/star_filled.png"
+    },
+    {
+      "applink": {
+        "appLink": "tokopedia://product/365885807/review/gallery"
+      },
+      "socialProofID": "media",
+      "socialProofType": "chip",
+      "title": "Foto Pembeli",
+      "subtitle": "(306)",
+      "icon": ""
+    },
+    {
+      "applink": {
+        "appLink": "tokopedia://product/365885807/talk?shop_id=2363890&is_variant_selected=false&available_variants=false"
+      },
+      "socialProofID": "talk",
+      "socialProofType": "chip",
+      "title": "Diskusi",
+      "subtitle": "(84)",
+      "icon": ""
+    }
+  ],
+  "customInfoTitle": [
+    {
+      "title": "Bikin belanja makin lengkap",
+      "status": "hide",
+      "componentName": "other_offers"
+    },
+    {
+      "title": "Makin mantap kalau tambahin ini",
+      "status": "hide",
+      "componentName": "add_ons"
+    }
+  ],
+  "restrictionInfo": {
+    "message": "",
+    "restrictionData": []
+  },
+  "navBar": {
+    "name": "default_navbar",
+    "items": [
+      {
+        "title": "Detail Produk",
+        "componentName": "product_detail"
+      },
+      {
+        "title": "Ulasan",
+        "componentName": "review"
+      },
+      {
+        "title": "Rekomendasi",
+        "componentName": "pdp_3"
+      }
+    ]
+  },
+  "rating": {
+    "totalRating": "4.893",
+    "ratingScore": "4.9",
+    "totalReviewTextAndImage": "858"
+  }
+}

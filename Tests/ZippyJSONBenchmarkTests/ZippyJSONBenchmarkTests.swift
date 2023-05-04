@@ -1,0 +1,11 @@
+import XCTest
+import ZippyJSONBenchmark_Library
+
+final class ZippyJSONBenchmarkTests: XCTestCase {
+    func testExample() throws {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct
+        // results.
+//        XCTAssertEqual(ZippyJSONBenchmark-Library().text, "Hello, World!")
+    }
+}

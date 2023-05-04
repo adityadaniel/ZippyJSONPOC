@@ -1,0 +1,515 @@
+{
+    "shopPageGetDynamicTab": {
+      "tabData": [
+        {
+          "bgImage": "",
+          "isDefault": true,
+          "textColor": "#ffffff",
+          "type": "logic",
+          "imgLottie": "",
+          "errorMessage": "",
+          "isFocus": 1,
+          "text": "Beranda",
+          "icon": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/shop.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/shop.png\"}",
+          "iconFocus": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/shop_filled.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/shop_filled.png\"}",
+          "shopLayoutFeatures": [],
+          "bgColors": [
+            "#024f00",
+            "#00b816"
+          ],
+          "data": {
+            "homeLayoutData": {
+              "widgetIDList": [
+                {
+                  "widgetType": "promo",
+                  "widgetName": "voucher_static",
+                  "widgetID": 99,
+                  "isFestivity": true,
+                  "widgetMasterID": 27,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "campaign",
+                  "widgetName": "big_campaign_thematic",
+                  "widgetID": 15445,
+                  "isFestivity": true,
+                  "widgetMasterID": 33,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "campaign",
+                  "widgetName": "flash_sale_toko",
+                  "widgetID": 1569633,
+                  "isFestivity": true,
+                  "widgetMasterID": 29,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "product",
+                  "widgetName": "product",
+                  "widgetID": 4507153,
+                  "isFestivity": true,
+                  "widgetMasterID": 9,
+                  "header": {
+                    "title": "Terlaris",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "campaign",
+                  "widgetName": "flash_sale_toko",
+                  "widgetID": 1569643,
+                  "isFestivity": true,
+                  "widgetMasterID": 29,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "display",
+                  "widgetName": "slider_banner",
+                  "widgetID": 1534726,
+                  "isFestivity": false,
+                  "widgetMasterID": 1,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "display",
+                  "widgetName": "display_double_column",
+                  "widgetID": 615095,
+                  "isFestivity": false,
+                  "widgetMasterID": 4,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "display",
+                  "widgetName": "display_double_column",
+                  "widgetID": 615096,
+                  "isFestivity": false,
+                  "widgetMasterID": 4,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "display",
+                  "widgetName": "display_single_column",
+                  "widgetID": 3633488,
+                  "isFestivity": false,
+                  "widgetMasterID": 3,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "product",
+                  "widgetName": "product",
+                  "widgetID": 4507152,
+                  "isFestivity": false,
+                  "widgetMasterID": 13,
+                  "header": {
+                    "title": "Produk Unggulan",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "etalase",
+                  "widgetName": "etalase_slider_kecil_2_baris",
+                  "widgetID": 4507156,
+                  "isFestivity": false,
+                  "widgetMasterID": 20,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                },
+                {
+                  "widgetType": "dynamic",
+                  "widgetName": "play",
+                  "widgetID": 1538683,
+                  "isFestivity": false,
+                  "widgetMasterID": 24,
+                  "header": {
+                    "title": "",
+                    "data": []
+                  }
+                }
+              ],
+              "layoutID": 42789,
+              "masterLayoutID": 3
+            }
+          },
+          "name": "HomeTab",
+          "isActive": 1
+        },
+        {
+          "bgImage": "",
+          "isDefault": false,
+          "textColor": "",
+          "type": "static",
+          "imgLottie": "",
+          "errorMessage": "",
+          "isFocus": 0,
+          "text": "Produk",
+          "icon": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/product.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/product.png\"}",
+          "iconFocus": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/product_filled.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/product_filled.png\"}",
+          "shopLayoutFeatures": [],
+          "bgColors": [],
+          "data": {},
+          "name": "ProductTab",
+          "isActive": 1
+        },
+        {
+          "bgImage": "",
+          "isDefault": false,
+          "textColor": "",
+          "type": "static",
+          "imgLottie": "",
+          "errorMessage": "",
+          "isFocus": 0,
+          "text": "Etalase",
+          "icon": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/cabinet.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/cabinet.png\"}",
+          "iconFocus": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/cabinet_filled.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/cabinet_filled.png\"}",
+          "shopLayoutFeatures": [],
+          "bgColors": [],
+          "data": {},
+          "name": "EtalaseTab",
+          "isActive": 1
+        },
+        {
+          "bgImage": "",
+          "isDefault": false,
+          "textColor": "",
+          "type": "static",
+          "imgLottie": "",
+          "errorMessage": "",
+          "isFocus": 0,
+          "text": "feed",
+          "icon": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/feed.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/feed.png\"}",
+          "iconFocus": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/feed_filled.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/feed_filled.png\"}",
+          "shopLayoutFeatures": [],
+          "bgColors": [],
+          "data": {},
+          "name": "FeedTab",
+          "isActive": 1
+        },
+        {
+          "bgImage": "",
+          "isDefault": false,
+          "textColor": "",
+          "type": "logic",
+          "imgLottie": "",
+          "errorMessage": "",
+          "isFocus": 0,
+          "text": "Ulasan",
+          "icon": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/star.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/star.png\"}",
+          "iconFocus": "{\"dark_mode\":\"https://images.tokopedia.net/img/shoppage/icons/dark/star_filled.png\",\"light_mode\":\"https://images.tokopedia.net/img/shoppage/icons/star_filled.png\"}",
+          "shopLayoutFeatures": [],
+          "bgColors": [],
+          "data": {},
+          "name": "ReviewTab",
+          "isActive": 1
+        }
+      ]
+    },
+    "feedv2": {
+      "data": [
+        {
+          "id": 80795762
+        },
+        {
+          "id": 80465025
+        },
+        {
+          "id": 79712018
+        },
+        {
+          "id": 79657404
+        }
+      ]
+    },
+    "getShopOperationalHourStatus": {
+      "startTime": "00:00:00",
+      "endTime": "23:59:59",
+      "statusActive": true,
+      "tickerTitle": "",
+      "error": {
+        "message": ""
+      },
+      "tickerMessage": ""
+    },
+    "ShopPageGetHeaderLayout": {
+      "widgets": [
+        {
+          "component": [
+            {
+              "name": "shop_logo",
+              "type": "image_only",
+              "data": {
+                "image": "https://images.tokopedia.net/img/cache/215-square/shops-1/2020/5/16/2363890/2363890_9847f48d-d934-40cb-873b-8219d1c09bd7.png",
+                "isBottomSheet": false,
+                "imageLink": ""
+              }
+            },
+            {
+              "name": "shop_name",
+              "type": "badge_text_value",
+              "data": {
+                "text": [
+                  {
+                    "textLink": "tokopedia://shop/2363890/info",
+                    "isBottomSheet": false,
+                    "icon": "https://images.tokopedia.net/img/official_store/badge_os.png",
+                    "textHtml": "Bagus Official Store"
+                  },
+                  {
+                    "textLink": "",
+                    "isBottomSheet": false,
+                    "icon": "https://images.tokopedia.net/img/shoppage/assets/indicator.png",
+                    "textHtml": "<span style=\"color:#03AC0E;\" data-testid=\"shopSellerStatusHeader\">Online </span>"
+                  }
+                ],
+                "ctaIcon": "https://images.tokopedia.net/img/chevron_down.png",
+                "ctaText": "",
+                "ctaLink": ""
+              }
+            }
+          ],
+          "widgetID": 1,
+          "name": "shop_basic_info",
+          "type": "shop_basic_info"
+        },
+        {
+          "component": [
+            {
+              "name": "shop_rating",
+              "type": "badge_text_value",
+              "data": {
+                "text": [
+                  {
+                    "textLink": "tokopedia://shop/2363890/review?review-source=header",
+                    "isBottomSheet": false,
+                    "icon": "https://images.tokopedia.net/img/autocomplete/rating.png",
+                    "textHtml": "5.0"
+                  },
+                  {
+                    "textLink": "",
+                    "isBottomSheet": false,
+                    "icon": "",
+                    "textHtml": "Rating & Ulasan"
+                  }
+                ],
+                "ctaIcon": "",
+                "ctaText": "",
+                "ctaLink": ""
+              }
+            },
+            {
+              "name": "shop_handling",
+              "type": "badge_text_value",
+              "data": {
+                "text": [
+                  {
+                    "textLink": "",
+                    "isBottomSheet": false,
+                    "icon": "",
+                    "textHtml": "± 2 jam"
+                  },
+                  {
+                    "textLink": "",
+                    "isBottomSheet": false,
+                    "icon": "",
+                    "textHtml": "Pesanan diproses"
+                  }
+                ],
+                "ctaIcon": "",
+                "ctaText": "",
+                "ctaLink": ""
+              }
+            },
+            {
+              "name": "bebas_ongkir",
+              "type": "image_only",
+              "data": {
+                "image": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                "isBottomSheet": false,
+                "imageLink": ""
+              }
+            },
+            {
+              "name": "shop_operational_hour",
+              "type": "badge_text_value",
+              "data": {
+                "text": [
+                  {
+                    "textLink": "",
+                    "isBottomSheet": true,
+                    "icon": "",
+                    "textHtml": "Buka 24 jam"
+                  },
+                  {
+                    "textLink": "",
+                    "isBottomSheet": true,
+                    "icon": "",
+                    "textHtml": "Jam operasi toko"
+                  }
+                ],
+                "ctaIcon": "",
+                "ctaText": "",
+                "ctaLink": ""
+              }
+            }
+          ],
+          "widgetID": 2,
+          "name": "shop_performance",
+          "type": "shop_performance"
+        },
+        {
+          "component": [
+            {
+              "name": "shop_notes",
+              "type": "button",
+              "data": {
+                "isBottomSheet": true,
+                "icon": "https://images.tokopedia.net/img/shop-page/asset/clipboard.png",
+                "label": "",
+                "buttonType": "",
+                "link": "tokopedia://shop/2363890/note"
+              }
+            },
+            {
+              "name": "chat",
+              "type": "button",
+              "data": {
+                "isBottomSheet": false,
+                "icon": "",
+                "label": "Chat",
+                "buttonType": "",
+                "link": ""
+              }
+            },
+            {
+              "name": "follow_member",
+              "type": "button",
+              "data": {
+                "isBottomSheet": false,
+                "icon": "",
+                "label": "",
+                "buttonType": "",
+                "link": ""
+              }
+            }
+          ],
+          "widgetID": 3,
+          "name": "action_button",
+          "type": "action_button"
+        }
+      ]
+    },
+    "reputation_shops": [
+      {
+        "badge": "https://ecs7.tokopedia.net/img/repsys/diamond-5.gif",
+        "score": "593.041",
+        "badge_hd": "https://ecs7.tokopedia.net/img/repsys/diamond-5-hd.gif"
+      }
+    ],
+    "shopInfoByID": {
+      "result": [
+        {
+          "statusInfo": {
+            "tickerType": "warning",
+            "statusTitle": "",
+            "isIdle": false,
+            "shopStatus": 1,
+            "statusMessage": ""
+          },
+          "isGoApotik": false,
+          "shopHomeType": "native",
+          "partnerInfo": [
+            {
+              "fsType": 0
+            }
+          ],
+          "isOwner": 0,
+          "epharmacyInfo": {
+            "apj": "",
+            "siaNumber": "",
+            "sipaNumber": ""
+          },
+          "closedInfo": {
+            "until": "",
+            "closedNote": "",
+            "reason": "Mohon maaf atas ketidaknyamanan yang Anda alami. Dengan berat hati toko Anda harus kami tutup karena adanya indikasi pelanggaran Syarat dan Ketentuan Tokopedia. Silahkan periksa kotak pesan Anda untuk penjelasan lebih lanjut. <br> Demi kenyamanan dan keamanan bertransaksi di Tokopedia, kami himbau agar Anda dapat memperhatikan dan memahami dengan baik seluruh Syarat dan Ketentuan Transaksi Penjualan (Poin E) di <a href='https://www.tokopedia.com/terms.pl#sell'>https://www.tokopedia.com/terms.pl#sell</a>. <br>Terima kasih,<br>Tim Tokopedia"
+          },
+          "favoriteData": {
+            "totalFavorite": 56760,
+            "alreadyFavorited": 0
+          },
+          "location": "Kota Administrasi Jakarta Utara",
+          "goldOS": {
+            "isGoldBadge": 1,
+            "title": "Official Store",
+            "isGold": 1,
+            "badge": "https://images.tokopedia.net/img/official_store/badge_os.png",
+            "isOfficial": 1
+          },
+          "createInfo": {
+            "epochShopCreatedUTC": "1501667331",
+            "shopCreated": "2017-08-02",
+            "openSince": "August 2017"
+          },
+          "freeOngkir": {
+            "imgURL": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+            "isActive": true
+          },
+          "isOpen": 1,
+          "topContent": {
+            "bottomURL": "",
+            "topURL": ""
+          },
+          "shopCore": {
+            "shopID": "2363890",
+            "domain": "bagusmartid",
+            "tagLine": "Produk Idola Keluarga",
+            "defaultSort": 2,
+            "description": "Merupakan Official Shop dari Bagus di Tokopedia. Memberikan Kenyamanan dan Kepuasan kepada keluarga Indonesia",
+            "ownerID": "21408087",
+            "name": "Bagus Official Store",
+            "url": "https://www.tokopedia.com/bagusmartid"
+          },
+          "ownerInfo": {
+            "email": "",
+            "id": "21408087",
+            "imageURL": "https://accounts.tokopedia.com/image/v1/u/21408087/user_profile/desktop",
+            "status": 1,
+            "name": "Bagus Official Store"
+          },
+          "shopAssets": {
+            "avatar": "https://images.tokopedia.net/img/cache/215-square/shops-1/2020/5/16/2363890/2363890_9847f48d-d934-40cb-873b-8219d1c09bd7.png",
+            "cover": "https://images.tokopedia.net/img/cache/1190/HEpYhz/2020/11/16/b74599b5-d620-4c1c-a99a-f19959fb629b.jpg"
+          }
+        }
+      ],
+      "error": {
+        "message": ""
+      }
+    }
+}
